@@ -1,4 +1,4 @@
-//Justin Zhang 112615200
+
 
 public class Board {
 	private String[][] board;
